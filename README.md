@@ -43,4 +43,5 @@ _ In my case, I used 50 milliseconds:
 
 That's it. It really worked for me.
 I found solutions here:
-[Ref-stackoverflow]: thttps://askubuntu.com/questions/475987/a2dp-on-pulseaudio-terrible-choppy-skipping-audio/1207648#1207648?newreg=8db7e525c0e04228872dcd9da8987798
+
+[Ref-stackoverflow](https://askubuntu.com/questions/475987/a2dp-on-pulseaudio-terrible-choppy-skipping-audio/1207648#1207648?newreg=8db7e525c0e04228872dcd9da8987798)
