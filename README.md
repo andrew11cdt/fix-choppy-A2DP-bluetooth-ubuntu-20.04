@@ -36,11 +36,11 @@ My case:
 ```
 	pactl set-port-latency-offset <NAME> <PORT> <BUFFER_SIZE_MICROSECONDS>
 ```
-_ In my case, I used 50 millisecond: 
+_ In my case, I used 50 milliseconds: 
 ```
 	pactl set-port-latency-offset bluez_card.00_0A_45_03_E5_00 headset-output 50000
 ```
 
 That's it. It really worked for me.
-I did use solutions here:
+I found solutions here:
 [Ref-stackoverflow](thttps://askubuntu.com/questions/475987/a2dp-on-pulseaudio-terrible-choppy-skipping-audio/1207648#1207648?newreg=8db7e525c0e04228872dcd9da8987798)
